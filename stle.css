@@ -1,0 +1,30 @@
+.judul {
+  font-size: 20px;
+  font-weight: bold;
+  color: blueviolet;
+}
+.Judul2 {
+  font-size: 16px;
+}
+.gambar {
+  width: 200px;
+}
+.container {
+  width: 500px;
+  height: 400px;
+  background-color: blueviolet;
+  padding: 50px 40px;
+  margin: 40px;
+}
+.kotak {
+  width: 20%;
+  height: 30%;
+  background-color: red;
+}
+
+.table,
+td,
+th,
+tr {
+  border: 1px solid greenyellow;
+}
